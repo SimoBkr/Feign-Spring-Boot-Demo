@@ -1,2 +1,5 @@
 server:
   port: 8932
+
+application:
+  symptom-url: https://symptomchecker.io/api/generate
